@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Rishi Malla 👋
 
-<!--
-**rishi12255/rishi12255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a self-taught developer  
+💻 I build websites, landing pages, and simple web apps  
+🧠 Currently learning: React, Node.js, Mangodb , tailwindcss amd Emailjs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 📱 [Portfolio](https://rishimallaportfolio.netlify.app) – My personal portfolio site
+
+## 📫 Contact Me
+- 📧 [Email](mailto:rishimalla37@gmai.com)
+- 📸 [Instagram](https://www.instagram.com/yuulieagain/)
+
