@@ -1,10 +1,11 @@
 # Hi, I'm Rishi Malla 👋
 
 
-I'm a self-taught web developer  
-💻 I build websites, landing pages, etc.  
-🧠 Currently learning: React, Mangodb , tailwindcss and Emailjs.
-🌍 Based in Nepal,Pokhara
+ I'm a self-taught web developer  
+💻 I build responsive websites, landing pages, etc.
+🧠 Currently sharpening my skills in React, MongoDB, Tailwind CSS, and EmailJS  
+🌍 Proudly coding from Pokhara, Nepal
+
 
 ## 📫 Contact Me
 - 📧 [Email](mailto:rishimalla37@gmai.com)
