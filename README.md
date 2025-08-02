@@ -3,10 +3,8 @@
 
 I'm a self-taught web developer  
 💻 I build websites, landing pages, etc.  
-🧠 Currently learning: React, Node.js, Mangodb , tailwindcss amd Emailjs.
-
-## 🚀 Projects
-- 📱 [Portfolio](https://rishimallaportfolio.netlify.app) – My personal portfolio site
+🧠 Currently learning: React, Mangodb , tailwindcss and Emailjs.
+🌍 Based in Nepal,Pokhara
 
 ## 📫 Contact Me
 - 📧 [Email](mailto:rishimalla37@gmai.com)
