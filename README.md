@@ -1,8 +1,8 @@
 # Hi, I'm Rishi Malla 👋
 
 
-I'm a self-taught developer  
-💻 I build websites, landing pages, and simple web apps  
+I'm a self-taught web developer  
+💻 I build websites, landing pages, etc.  
 🧠 Currently learning: React, Node.js, Mangodb , tailwindcss amd Emailjs.
 
 ## 🚀 Projects
